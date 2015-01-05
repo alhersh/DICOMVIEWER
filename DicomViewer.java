@@ -1,9 +1,6 @@
 /*
 ** This is a DicomViewer class
-** In response to the challenge assignment for the R&D position at Imagilys
-** Started date : April, 11 2014 
-** End date : April, 14 2014
-** Up to date working hours : 30
+
 ** Linked classes:
     ** DicomParser
     ** ImagePanel
